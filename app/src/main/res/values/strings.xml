@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+
+    <string name="title">Все наоборот</string>
+    <string name="transform">Преобразовать</string>
+    <string name="result">Результат</string>
+    <string name="countOfCharacters">Количество символов</string>
+    <string name="enterText">Введите текст</string>
+</resources>
